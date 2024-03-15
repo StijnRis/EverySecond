@@ -1,0 +1,182 @@
+[
+    {
+        "name": "Apple",
+        "img": "apple.svg",
+        "items": [
+            {
+                "name": "iPhones sold",
+                "img": "iphone.svg",
+                "source": "https://www.statista.com/statistics/263402/apples-iphone-revenue-since-3rd-quarter-2007/",
+                "speed": 7.35179339078
+            },
+            {
+                "name": "MacBook sales",
+                "img": "macbook.svg",
+                "source": "https://www.statista.com/topics/10435/apple-mac/#topicOverview",
+                "speed": 0.82390788
+            },
+            {
+                "name": "iPad sales",
+                "img": "ipad.svg",
+                "source": "https://www.businessofapps.com/data/apple-statistics/",
+                "speed": 1.93301464154
+            },
+            {
+                "name": "Apple Watch sales",
+                "img": "apple_watch.svg",
+                "source": "https://www.businessofapps.com/data/apple-statistics/",
+                "speed": 1.67950452462
+            },
+            {
+                "name": "AirPods sales",
+                "img": "airpods.svg",
+                "source": "https://www.businessofapps.com/data/apple-statistics/",
+                "speed": 2.59847869846
+            },
+            {
+                "name": "Apple Music subscribers",
+                "img": "apple_music.svg",
+                "source": "https://www.businessofapps.com/data/apple-statistics/",
+                "speed": 2.78861128616
+            },
+            {
+                "name": "Apple TV+ subscribers",
+                "img": "apple_tv.svg",
+                "source": "https://www.businessofapps.com/data/apple-statistics/",
+                "speed": 2.37665734616
+            },
+            {
+                "name": "Revenue",
+                "img": "money.svg",
+                "source": "https://www.businessofapps.com/data/apple-statistics/",
+                "speed": 12136.7968477
+            }
+        ]
+    },
+    {
+        "name": "Minecraft",
+        "img": "minecraft_logo.svg",
+        "items": [
+            {
+                "name": "revenue",
+                "img": "money.svg",
+                "source": "https://www.businessofapps.com/data/minecraft-statistics/",
+                "speed": 11.5663990846
+            },
+            {
+                "name": "people played Minecraft",
+                "img": "minecraft_logo.svg",
+                "source": "https://www.businessofapps.com/data/minecraft-statistics/",
+                "speed": 2.85198881539
+            },
+            {
+                "name": "minecraft days",
+                "img": "minecraft_sun.webp",
+                "source": "https://minecraft.wiki/w/Daylight_cycle",
+                "speed": 0.00083333333
+            }
+        ]
+    },
+    {
+        "name": "Internet",
+        "img": "internet.svg",
+        "items": [
+            {
+                "name": "new internet users",
+                "img": "user.svg",
+                "source": "https://datareportal.com/global-digital-overview",
+                "speed": 2.85388127854
+            },
+            {
+                "name": "new social media users",
+                "img": "chat.svg",
+                "source": "https://datareportal.com/global-digital-overview",
+                "speed": 8.43480466768
+            },
+            {
+                "name": "searches",
+                "img": "search.svg",
+                "source": "https://www.semrush.com/blog/google-search-statistics/",
+                "speed": 98333.3333333
+            }
+        ]
+    },
+    {
+        "name": "Social media",
+        "img": "social_media.svg",
+        "items": [
+            {
+                "name": "Reddit posts posted",
+                "img": "reddit.svg",
+                "source": "https://backlinko.com/reddit-users#how-many-posts-are-shared-on-reddit-each-year",
+                "speed": 9.62075088787
+            },
+            {
+                "name": "seconds of Youtube content uploaded",
+                "img": "youtube.svg",
+                "source": "https://datareportal.com/global-digital-overview",
+                "speed": 30000
+            },
+            {
+                "name": "Instagram pictures shared",
+                "img": "instagram.svg",
+                "source": "https://photutorial.com/photos-statistics/",
+                "speed": 69444.4444444
+            },
+            {
+                "name": "WhatsApp messages send",
+                "img": "whatsapp.svg",
+                "source": "https://www.tyntec.com/blogs/whatsapp-statistics/",
+                "speed": 1100000
+            },
+            {
+                "name": "tweets made",
+                "img": "twitter.svg",
+                "source": "https://www.dsayce.com/social-media/tweets-day/",
+                "speed": 6001
+            },
+            {
+                "name": "TikTok created",
+                "img": "tiktok.svg",
+                "source": "https://www.usesignhouse.com/blog/tiktok-stats",
+                "speed": 272
+            }
+        ]
+    },
+    {
+        "name": "Disney World",
+        "img": "castle.svg",
+        "items": [
+            {
+                "name": "visitors",
+                "img": "person.svg",
+                "source": "https://gitnux.org/disney-world-visitor-statistics/",
+                "speed": 0.65972222222
+            },
+            {
+                "name": "monorail riders",
+                "img": "monorail.svg",
+                "source": "https://www.linearity.io/blog/disney-statistics/",
+                "speed": 1.73611111111
+            },
+            {
+                "name": "payed for wages",
+                "img": "money.svg",
+                "source": "https://www.linearity.io/blog/disney-statistics/",
+                "speed": 63.4195839675
+            },
+            {
+                "name": "Turkey legs sold",
+                "img": "turkey.svg",
+                "source": "https://www.linearity.io/blog/disney-statistics/",
+                "speed": 0.06341958396
+            },
+            {
+                "name": "dollars revenue",
+                "img": "money.svg",
+                "source": "https://www.investing.com/academy/statistics/walt-disney-facts/",
+                "speed": 2137.23997971
+            }
+        ]
+    }
+]
