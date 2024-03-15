@@ -5,8 +5,7 @@
     export let speed: number;
     export let timePassed: number;
 
-    $: amount = Math.round((speed * timePassed + (speed * Math.random() )) / 1000);
-
+    $: amount = Math.round((speed * timePassed + speed * Math.random()) / 1000);
 </script>
 
 <svelte:head>

@@ -1,9 +1,11 @@
 <script lang="ts">
+    import { base } from "$app/paths";
+
     export let name: string;
     export let img: string;
 </script>
 
-<a href="/{name}" class="link">
+<a href="{base}/{name}" class="link">
     <div class="item">
         <img class="img" src={"img/" + img} alt={name} />
         <p class="text">{name}</p>

@@ -1,6 +1,11 @@
+<script lang="ts">
+    import { base } from "$app/paths";
+
+</script>
+
 <nav id="nav">
     <div class="items">
-        <a class="item" href="/">Home</a>
+        <a class="item" href="{base}/">Home</a>
 
     </div>
 </nav>
